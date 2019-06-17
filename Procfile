@@ -1,1 +1,1 @@
-worker: node bot.js
+worker: node bot.js wefsd fsd rsd f
